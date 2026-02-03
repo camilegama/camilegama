@@ -23,5 +23,5 @@ My name is Camile Gama. I am a trained designer with a solid foundation in visua
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-###  Projetos em destaque
+###  Projetos em destaque / Featured projects
 Em breve.
