@@ -1,40 +1,27 @@
 # Camile Gama — Oie! 👋
 
-Desenvolvedora Full Stack em formação e Designer formada, com foco em criar interfaces funcionais, experiências bem pensadas e soluções digitais que unem design e tecnologia. Atualmente cursando ADS.
+`Desenvolvedora Full Stack em formação` `Designer formada`
 
-## Sobre mim
-Meu nome é Camile Gama. Sou designer formada, com base sólida em design visual e experiência do usuário, e atualmente estou aprofundando meus conhecimentos em desenvolvimento web com foco em me tornar desenvolvedora Full Stack.
+### Sobre mim
+Meu nome é Camile Gama. Sou designer formada, com base sólida em design visual e experiência do usuário, e atualmente graduanda em Análise e Desenvolvimento de Sistemas. Estou aprofundando meus conhecimentos em desenvolvimento web com foco em me tornar desenvolvedora Full Stack. 
 
-Tenho interesse em processos bem organizados, automação de tarefas e uso de ferramentas que otimizem o fluxo de trabalho e aumentem produtividade, sempre com olhar crítico e foco em qualidade.
+My name is Camile Gama. I am a trained designer with a solid foundation in visual design and user experience, and currently pursuing a degree in Systems Analysis and Development. I am deepening my knowledge in web development with a focus on becoming a Full Stack developer.
 
-Busco unir estética, usabilidade, código bem estruturado e soluções práticas no desenvolvimento de produtos digitais.
+**🎯 Objetivos: Me formar na área e atuar profissionalmente como desenvolvedora Full Stack.**  
+**🎯 Objectives: To graduate in the field and work professionally as a Full Stack developer.**  
 
-## Objetivos / Metas
-
-- Atuar profissionalmente como desenvolvedora de software  
-- Evoluir continuamente como desenvolvedora Full Stack  
-- Construir projetos consistentes para portfólio e mercado  
-- Aprimorar lógica, arquitetura e qualidade de código  
-
-## Contato
-
+### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camile-gama/)
 [![Email](https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white)](mailto:camileags@gmail.com)
 
-## Idiomas / Languages
-
+### Idiomas
 - Português — Nativo  
 - Inglês — Intermediário  
 
-## Linguagens e Tecnologias
-
+### Linguagens & Tecnologias
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-## Certificados & Qualificações
-
----
-
-Obrigado por visitar meu perfil :)  
-Fique à vontade para explorar meus repositórios ou entrar em contato.
+###  Projetos em destaque
+Em breve.
