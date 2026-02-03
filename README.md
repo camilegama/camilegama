@@ -14,7 +14,7 @@ My name is Camile Gama. I am a trained designer with a solid foundation in visua
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camile-gama/)
 [![Email](https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white)](mailto:camileags@gmail.com)
 
-### Idiomas
+### Idiomas / Languages
 - Português — Nativo  
 - English — Intermediate 
 
